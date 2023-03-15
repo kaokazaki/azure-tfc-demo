@@ -1,7 +1,7 @@
 variable "resource_group_name" {
-  default = "myTFResourceGroup-changed"
+  default = "rg-2103dv-mgzk4-2"
 }
 
 variable "azure_location" {
-  default = "westus2"
+  default = "japaneast"
 }
